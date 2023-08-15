@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.freevpn.one	TRUE	/	FALSE	1999999999	PHPSESSID	q8glg7q6hoj6pmh0g9vjmbo167
+
